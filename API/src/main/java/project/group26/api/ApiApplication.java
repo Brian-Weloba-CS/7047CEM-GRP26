@@ -1,4 +1,4 @@
-package GRP26._CEM.API;
+package project.group26.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

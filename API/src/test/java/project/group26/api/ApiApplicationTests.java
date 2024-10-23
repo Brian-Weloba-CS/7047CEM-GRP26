@@ -1,4 +1,4 @@
-package GRP26._CEM.API;
+package project.group26.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
